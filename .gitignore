@@ -1,0 +1,5 @@
+# openscad dependency files
+*.dep
+
+# built files
+out/*
