@@ -4,7 +4,7 @@
 
 ### Screen
 
-<https://de.aliexpress.com/item/1005005950409168.html?spm=a2g0o.order_list.order_list_main.172.57355c5f4XcC3B&gatewayAdapt=glo2deu>
+<https://de.aliexpress.com/item/1005005950409168.html>
 
 Markings on the back of the LCD:
 
@@ -21,5 +21,6 @@ Additional markings:
 
 ### Screen Controller PCB
 
-<https://de.aliexpress.com/item/1005005950409168.html?spm=a2g0o.order_list.order_list_main.172.57355c5f4XcC3B&gatewayAdapt=glo2deu>
+<https://de.aliexpress.com/item/1005005950409168.html>
+
 PCB Marking: PCB800869
