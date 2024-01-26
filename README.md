@@ -21,6 +21,8 @@ Additional markings:
 
 ### Screen Controller PCB
 
+<https://de.aliexpress.com/item/1005005510901114.html>
+or
 <https://de.aliexpress.com/item/1005005950409168.html>
 
 PCB Marking: PCB800869
